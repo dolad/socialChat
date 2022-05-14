@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "744230227504",
+    "project_id": "staffsocial-e2fce",
+    "storage_bucket": "staffsocial-e2fce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:744230227504:android:ac2513f429a855d64227f5",
+        "android_client_info": {
+          "package_name": "com.socialchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "744230227504-6f159r650k36ribbenflk6oi7oobbstm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBex8env0sdT_GSV7BaRvGTlr3X4H3UoOE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "744230227504-6f159r650k36ribbenflk6oi7oobbstm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
